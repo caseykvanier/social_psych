@@ -1,0 +1,23 @@
+chapter: 2
+title: Social Learning and Social Cognition
+status: draft
+slides:
+  file: slides.pdf
+  sha256: 8c26283cb31dd3a14e08b1b3577abc6aad7cf85532c0d26f59f1d18af2baa5b5
+lectures:
+  - date: 2026-09-02
+  - date: 2026-09-09
+coverage:
+  slides_1_to_10: taught_on_2026-09-02
+  slides_1_to_7: reviewed_on_2026-09-09
+  slides_8_to_12: developed_on_2026-09-09
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 2
+  sections:
+    - "2.1"
+    - "2.2"
+    - "2.3"
+    - "2.4"
+    - "2.5"
+  role: supporting_reference_not_proof_of_lecture_coverage

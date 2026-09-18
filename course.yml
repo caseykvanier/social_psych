@@ -1,0 +1,50 @@
+schema_version: 1
+course:
+  title: Fundamentals of Social Psychology
+  institution: Vanier College
+  term: Autumn 2026
+  language: en-CA
+repository:
+  url: https://github.com/caseykvanier/social_psych
+  purpose: agent-ready course companion
+  agent_instructions: AGENTS.md
+  human_entrypoint: README.md
+learning_support:
+  index: practice/index.yml
+  status: active
+  use: Formative tutoring examples and guidance; not evidence of lecture coverage or assessment content.
+source_priority:
+  - source: chapter lecture notes
+    pattern: chapters/*/notes.md
+    use: Primary evidence for course scope, emphasis, explanations, and examples.
+  - source: chapter source manifests
+    pattern: chapters/*/sources.yml
+    use: Authority for provenance, lecture dates, review state, and coverage boundaries.
+  - source: course slides
+    pattern: chapters/*/slides.pdf
+    use: Primary evidence for slide wording and visuals; the notes provide accessible descriptions.
+  - source: assigned textbook
+    pattern: textbook/*.yml
+    use: Supporting background and definitions; it does not prove that material was taught.
+  - source: outside material
+    pattern: null
+    use: Use only when requested, and label it as outside the course corpus.
+chapters:
+  - id: 01-introducing-social-psychology
+    title: Introducing Social Psychology
+    notes: chapters/01-introducing-social-psychology/notes.md
+    slides: chapters/01-introducing-social-psychology/slides.pdf
+    sources: chapters/01-introducing-social-psychology/sources.yml
+    textbook_chapter: 1
+  - id: 02-social-learning-cognition
+    title: Social Learning and Social Cognition
+    notes: chapters/02-social-learning-cognition/notes.md
+    slides: chapters/02-social-learning-cognition/slides.pdf
+    sources: chapters/02-social-learning-cognition/sources.yml
+    textbook_chapter: 2
+  - id: 03-the-self
+    title: The Self
+    notes: chapters/03-the-self/notes.md
+    slides: chapters/03-the-self/slides.pdf
+    sources: chapters/03-the-self/sources.yml
+    textbook_chapter: 3

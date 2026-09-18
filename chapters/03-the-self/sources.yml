@@ -1,0 +1,29 @@
+chapter: 3
+title: The Self
+status: draft
+slides:
+  file: slides.pdf
+  sha256: 7a23db4d7919aa3b6679a87abead8d5ded75e74b6cc16c88657aacd70c030ac8
+lectures:
+  - date: 2026-09-09
+  - date: 2026-09-14
+  - date: 2026-09-16
+coverage:
+  slides_1_to_4: taught_on_2026-09-09
+  slide_5: explicitly_skipped_in_lecture
+  slides_6_to_10: taught_on_2026-09-09
+  slides_11_to_18: taught_on_2026-09-14_with_section_dividers_13_and_16
+  slide_19: taught_on_2026-09-14_and_reviewed_on_2026-09-16
+  slides_20_to_22: taught_on_2026-09-16
+  slide_23: self_monitoring_taught_on_2026-09-16
+  slide_23_graph: worker_leader_comparison_explicitly_set_aside
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 3
+  sections:
+    - "3.1"
+    - "3.2"
+    - "3.3"
+    - "3.4"
+    - "3.5"
+  role: supporting_reference_not_proof_of_lecture_coverage

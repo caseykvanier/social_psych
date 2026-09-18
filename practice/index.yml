@@ -1,0 +1,22 @@
+schema_version: 1
+status: active
+guidance: README.md
+purpose: Public formative-learning materials that help students and their agents practise course concepts.
+material_types:
+  - practice_question_set
+  - worked_example
+  - misconception_check
+  - study_guide
+materials:
+  - id: multiple-choice-agent-guide
+    path: practice/multiple-choice-agent-guide.md
+    material_type: study_guide
+    status: published
+    authorship: agent-generated
+    purpose: Instructions for generating original course-aligned MC practice.
+  - id: multiple-choice-worked-examples
+    path: practice/multiple-choice-examples.md
+    material_type: practice_question_set
+    status: published
+    authorship: adapted_from_agent_generated_practice_bank
+    purpose: Three public examples with feedback and teaching-source citations.

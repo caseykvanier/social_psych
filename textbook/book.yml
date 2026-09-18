@@ -1,0 +1,26 @@
+schema_version: 1
+title: Principles of Social Psychology - 1st International H5P Edition
+authors:
+  - Rajiv Jhangiani
+  - Hammond Tarry
+publisher: BCcampus
+publication_date: 2022-01-26
+ebook_isbn: 978-1-77420-193-0
+language: en
+canonical_url: https://opentextbc.ca/socialpsychology/
+section_index: sections.yml
+access:
+  preferred: canonical web edition
+  local_copy_in_repository: false
+  note: Follow section URLs for accessible HTML and interactive material.
+license:
+  overall: CC BY-NC-SA 4.0
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  exceptions: Some adapted content is CC BY-NC-SA 3.0 and some additions are CC BY 4.0; follow page-level notices.
+  repository_cc0_applies: false
+citation:
+  apa7: Jhangiani, R., & Tarry, H. (2022). Principles of social psychology (1st international H5P edition). BCcampus. https://opentextbc.ca/socialpsychology/
+catalog_source:
+  format: IMS Common Cartridge Web Links 1.1
+  exported: 2024-08-28
+  sha256: e87328b5aab9659778033f27899016a8724fcbe655d66629f893c94865153a1d
