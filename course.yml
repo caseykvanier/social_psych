@@ -48,3 +48,21 @@ chapters:
     slides: chapters/03-the-self/slides.pdf
     sources: chapters/03-the-self/sources.yml
     textbook_chapter: 3
+  - id: 04-attitudes-behaviour-persuasion
+    title: Attitudes, Behaviour, and Persuasion
+    notes: chapters/04-attitudes-behaviour-persuasion/notes.md
+    slides: chapters/04-attitudes-behaviour-persuasion/slides.pdf
+    sources: chapters/04-attitudes-behaviour-persuasion/sources.yml
+    textbook_chapter: 4
+  - id: 05-perceiving-others
+    title: Perceiving Others
+    notes: chapters/05-perceiving-others/notes.md
+    slides: chapters/05-perceiving-others/slides.pdf
+    sources: chapters/05-perceiving-others/sources.yml
+    textbook_chapter: 5
+  - id: 06-influencing-and-conforming
+    title: Influencing and Conforming
+    notes: chapters/06-influencing-and-conforming/notes.md
+    slides: chapters/06-influencing-and-conforming/slides.pdf
+    sources: chapters/06-influencing-and-conforming/sources.yml
+    textbook_chapter: 6

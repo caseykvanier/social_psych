@@ -1,0 +1,47 @@
+chapter: 4
+title: Attitudes, Behaviour, and Persuasion
+status: draft
+slides:
+  file: slides.pdf
+  sha256: beb3b4e3773675cb8bd80b6288b95c414de8674a6e163293caab7a71ec76e261
+lectures:
+- date: '2026-09-28'
+- date: '2026-09-30'
+- date: '2026-10-06'
+coverage:
+  slide_1: chapter_overview_taught_2026-09-28
+  slide_2: section_outline
+  slide_3: taught_2026-09-28
+  slide_4: taught_2026-09-28
+  slide_5: taught_2026-09-28
+  slide_6: taught_2026-09-28
+  slide_7: taught_2026-09-28
+  slide_8: taught_2026-09-28_with_measurement_cautions
+  slide_9: taught_2026-09-28
+  slide_10: taught_2026-09-28
+  slide_11: section_transition
+  slide_12: taught_2026-09-28_and_2026-09-30
+  slide_13: taught_2026-09-28_and_2026-09-30
+  slide_14: taught_2026-09-30
+  slide_15: taught_2026-09-30
+  slide_16: taught_2026-09-30_with_graph_label_qualification
+  slide_17: section_outline
+  slide_18: taught_2026-09-30
+  slide_19: taught_2026-09-30
+  slide_20: taught_2026-09-30
+  slide_21: section_transition
+  slide_22: section_outline
+  slide_23: taught_2026-09-30
+  slide_24: taught_2026-09-30_with_course_terminology_boundary
+  slide_25: taught_2026-09-30
+  slide_26: taught_2026-09-30_reviewed_2026-10-06
+  slide_27: taught_2026-09-30
+  slide_28: taught_2026-09-30
+  slide_29: taught_2026-10-06
+  slide_30: taught_2026-10-06
+  slide_31: taught_2026-10-06
+  slide_32: taught_2026-10-06_with_spoken_label_correction
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 4
+  role: supporting_reference_not_proof_of_lecture_coverage

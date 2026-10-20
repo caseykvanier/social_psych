@@ -25,6 +25,9 @@ Point an agent to this repository and ask it to read, in order:
 | 1. Introducing Social Psychology | [Read Chapter 1 notes](chapters/01-introducing-social-psychology/notes.md) | [Open Chapter 1 slides](chapters/01-introducing-social-psychology/slides.pdf) | All 34 slides covered across August 26 and 31 |
 | 2. Social Learning and Social Cognition | [Read Chapter 2 notes](chapters/02-social-learning-cognition/notes.md) | [Open Chapter 2 slides](chapters/02-social-learning-cognition/slides.pdf) | Full deck covered across September 2 and 9 |
 | 3. The Self | [Read Chapter 3 notes](chapters/03-the-self/notes.md) | [Open Chapter 3 slides](chapters/03-the-self/slides.pdf) | Covered across September 9, 14, and 16; slide 5 skipped; slide 23 worker/leader graph set aside |
+| 4. Attitudes, Behaviour, and Persuasion | [Read Chapter 4 notes](chapters/04-attitudes-behaviour-persuasion/notes.md) | [Open Chapter 4 slides](chapters/04-attitudes-behaviour-persuasion/slides.pdf) | All 32 slides accounted for across September 28, 30, and October 6; see manifest for coverage qualifications |
+| 5. Perceiving Others | [Read Chapter 5 notes](chapters/05-perceiving-others/notes.md) | [Open Chapter 5 slides](chapters/05-perceiving-others/slides.pdf) | All 29 slides accounted for across October 6 and 7; see manifest for coverage qualifications |
+| 6. Influencing and Conforming | [Read Chapter 6 notes](chapters/06-influencing-and-conforming/notes.md) | [Open Chapter 6 slides](chapters/06-influencing-and-conforming/slides.pdf) | All 38 slides accounted for across October 14 and 19; see manifest for coverage qualifications |
 
 All notes remain marked `draft` until they receive an instructor review. Coverage labels deliberately distinguish material that was taught, reviewed, skipped, or not yet discussed.
 

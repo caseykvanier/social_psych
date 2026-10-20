@@ -1,0 +1,52 @@
+chapter: 6
+title: Influencing and Conforming
+status: draft
+slides:
+  file: slides.pdf
+  sha256: 4fb76579057c685f3972762caeb0599ac521e4cd5342986dc8235b91c836d9fc
+lectures:
+- date: '2026-10-14'
+- date: '2026-10-19'
+coverage:
+  slide_1: cover
+  slide_2: chapter_overview
+  slide_3: taught_2026-10-14
+  slide_4: taught_2026-10-14
+  slide_5: taught_2026-10-14
+  slide_6: taught_2026-10-14
+  slide_7: taught_2026-10-14
+  slide_8: taught_2026-10-14
+  slide_9: taught_2026-10-14
+  slide_10: taught_2026-10-14
+  slide_11: taught_2026-10-14
+  slide_12: taught_2026-10-14
+  slide_13: taught_2026-10-14
+  slide_14: taught_2026-10-14
+  slide_15: taught_2026-10-14
+  slide_16: section_summary
+  slide_17: section_transition_no_separate_leadership_taxonomy
+  slide_18: taught_2026-10-14_and_2026-10-19
+  slide_19: taught_2026-10-19
+  slide_20: taught_2026-10-19
+  slide_21: taught_2026-10-19
+  slide_22: taught_2026-10-19
+  slide_23: taught_2026-10-19_sex_difference_comment_explicitly_uncertain_not_assessable
+  slide_24: taught_2026-10-19
+  slide_25: image_not_separately_discussed_no_independent_assessable_concept
+  slide_26: taught_2026-10-19_with_ethics_and_causal_inference_cautions
+  slide_27: taught_2026-10-19
+  slide_28: taught_2026-10-19
+  slide_29: taught_2026-10-19
+  slide_30: taught_2026-10-19
+  slide_31: taught_2026-10-19
+  slide_32: taught_2026-10-19_prescription_estimate_not_assessable
+  slide_33: section_transition
+  slide_34: brief_synthesis_of_person_factors
+  slide_35: taught_2026-10-19_no_settled_milgram_sex_difference
+  slide_36: briefly_taught_2026-10-19_broad_cultural_contrast
+  slide_37: briefly_taught_2026-10-19_cross_reference_chapter_4
+  slide_38: section_summary
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 6
+  role: supporting_reference_not_proof_of_lecture_coverage

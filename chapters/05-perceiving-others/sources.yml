@@ -1,0 +1,43 @@
+chapter: 5
+title: Perceiving Others
+status: draft
+slides:
+  file: slides.pdf
+  sha256: 0133b3a6ebd5c9f01120c55c8ad5e3c25e6511567372f57a8cbff5a9a5e03b77
+lectures:
+- date: '2026-10-06'
+- date: '2026-10-07'
+coverage:
+  slide_1: chapter_overview
+  slide_2: taught_2026-10-06
+  slide_3: taught_2026-10-06
+  slide_4: taught_2026-10-06_point_light_animation_not_shown
+  slide_5: taught_2026-10-06_with_context_and_terminology_cautions
+  slide_6: taught_2026-10-06
+  slide_7: taught_2026-10-06
+  slide_8: taught_2026-10-06
+  slide_9: taught_2026-10-06_reviewed_2026-10-07
+  slide_10: taught_2026-10-06_reviewed_2026-10-07
+  slide_11: taught_2026-10-06_reviewed_2026-10-07
+  slide_12: section_transition
+  slide_13: taught_2026-10-07
+  slide_14: taught_2026-10-07
+  slide_15: taught_2026-10-07
+  slide_16: taught_2026-10-07_with_dimension_caution
+  slide_17: section_transition
+  slide_18: taught_2026-10-07
+  slide_19: taught_2026-10-07
+  slide_20: taught_2026-10-07
+  slide_21: taught_2026-10-07
+  slide_22: taught_2026-10-07
+  slide_23: taught_2026-10-07
+  slide_24: section_transition
+  slide_25: taught_2026-10-07
+  slide_26: taught_2026-10-07
+  slide_27: taught_2026-10-07_with_positive_not_always_good_caution
+  slide_28: taught_2026-10-07
+  slide_29: taught_2026-10-07
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 5
+  role: supporting_reference_not_proof_of_lecture_coverage
