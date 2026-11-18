@@ -66,3 +66,21 @@ chapters:
     slides: chapters/06-influencing-and-conforming/slides.pdf
     sources: chapters/06-influencing-and-conforming/sources.yml
     textbook_chapter: 6
+  - id: 07-liking-and-loving
+    title: Liking and Loving
+    notes: chapters/07-liking-and-loving/notes.md
+    slides: null
+    sources: chapters/07-liking-and-loving/sources.yml
+    textbook_chapter: 7
+  - id: 08-helping-and-altruism
+    title: Helping and Altruism
+    notes: chapters/08-helping-and-altruism/notes.md
+    slides: null
+    sources: chapters/08-helping-and-altruism/sources.yml
+    textbook_chapter: 8
+  - id: 09-aggression
+    title: Aggression
+    notes: chapters/09-aggression/notes.md
+    slides: null
+    sources: chapters/09-aggression/sources.yml
+    textbook_chapter: 9

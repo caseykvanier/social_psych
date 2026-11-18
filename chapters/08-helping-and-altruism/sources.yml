@@ -1,0 +1,60 @@
+chapter: 8
+title: Helping and Altruism
+status: draft
+slides:
+  availability: Consult the slides provided by the instructor.
+  sha256: c96b1b1cb28468c3f07736bfc65bba1c73cbdb3702e4cb1d35c85f2c255dee75
+  page_count: 45
+lectures:
+- date: '2026-11-02'
+- date: '2026-11-04'
+coverage:
+  slide_1: cover
+  slide_2: lecture_linked
+  slide_3: lecture_linked
+  slide_4: lecture_linked
+  slide_5: lecture_linked
+  slide_6: lecture_linked
+  slide_7: lecture_linked
+  slide_8: lecture_linked
+  slide_9: lecture_linked
+  slide_10: lecture_linked
+  slide_11: lecture_linked
+  slide_12: lecture_linked
+  slide_13: lecture_linked
+  slide_14: uncertain_slide_specific
+  slide_15: section_review
+  slide_16: lecture_linked
+  slide_17: lecture_linked
+  slide_18: lecture_linked
+  slide_19: lecture_linked
+  slide_20: lecture_linked
+  slide_21: lecture_linked
+  slide_22: lecture_linked
+  slide_23: lecture_linked
+  slide_24: lecture_linked
+  slide_25: section_review
+  slide_26: lecture_linked
+  slide_27: lecture_linked
+  slide_28: lecture_linked
+  slide_29: lecture_linked
+  slide_30: lecture_linked
+  slide_31: lecture_linked
+  slide_32: lecture_linked
+  slide_33: lecture_linked
+  slide_34: lecture_linked
+  slide_35: lecture_linked
+  slide_36: section_review
+  slide_37: lecture_linked
+  slide_38: lecture_linked
+  slide_39: lecture_linked
+  slide_40: lecture_linked
+  slide_41: lecture_linked
+  slide_42: lecture_linked
+  slide_43: lecture_linked
+  slide_44: lecture_linked
+  slide_45: section_review
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 8
+  role: supporting_reference_not_proof_of_lecture_coverage

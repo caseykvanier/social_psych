@@ -1,0 +1,58 @@
+chapter: 9
+title: Aggression
+status: draft
+slides:
+  availability: Consult the slides provided by the instructor.
+  sha256: 35ef81f82d8c460daf9632591f197f431665b5dc1703a69d4bdda54b16a1409f
+  page_count: 44
+lectures:
+- date: '2026-11-11'
+coverage:
+  slide_1: cover
+  slide_2: outline_fourth_topic_not_separately_developed
+  slide_3: lecture_linked
+  slide_4: lecture_linked
+  slide_5: uncertain_slide_specific
+  slide_6: lecture_linked
+  slide_7: lecture_linked
+  slide_8: lecture_linked
+  slide_9: lecture_linked
+  slide_10: lecture_linked
+  slide_11: lecture_linked
+  slide_12: lecture_linked
+  slide_13: lecture_linked
+  slide_14: lecture_linked
+  slide_15: lecture_linked
+  slide_16: lecture_linked
+  slide_17: lecture_linked
+  slide_18: lecture_linked
+  slide_19: lecture_linked
+  slide_20: lecture_linked
+  slide_21: lecture_linked
+  slide_22: lecture_linked
+  slide_23: taught_location_corrected_by_slide_24
+  slide_24: lecture_linked
+  slide_25: lecture_linked
+  slide_26: lecture_linked
+  slide_27: uncertain_slide_specific
+  slide_28: lecture_linked
+  slide_29: lecture_linked
+  slide_30: lecture_linked
+  slide_31: lecture_linked
+  slide_32: lecture_linked
+  slide_33: lecture_linked
+  slide_34: lecture_linked
+  slide_35: lecture_linked
+  slide_36: lecture_linked
+  slide_37: lecture_linked
+  slide_38: lecture_linked
+  slide_39: lecture_linked
+  slide_40: lecture_linked
+  slide_41: lecture_linked
+  slide_42: lecture_linked
+  slide_43: lecture_linked
+  slide_44: lecture_linked
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 9
+  role: supporting_reference_not_proof_of_lecture_coverage

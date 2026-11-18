@@ -1,0 +1,51 @@
+chapter: 7
+title: Liking and Loving
+status: draft
+slides:
+  availability: Consult the slides provided by the instructor.
+  sha256: dee2105140d8c78b6554da727d4fdbe2b94d59193bc5eb9e064d883428ee410d
+  page_count: 36
+lectures:
+- date: '2026-10-28'
+- date: '2026-11-02'
+coverage:
+  slide_1: lecture_linked
+  slide_2: lecture_linked
+  slide_3: lecture_linked
+  slide_4: lecture_linked
+  slide_5: lecture_linked
+  slide_6: lecture_linked
+  slide_7: lecture_linked
+  slide_8: lecture_linked
+  slide_9: lecture_linked
+  slide_10: lecture_linked
+  slide_11: lecture_linked
+  slide_12: lecture_linked
+  slide_13: lecture_linked
+  slide_14: lecture_linked
+  slide_15: lecture_linked
+  slide_16: lecture_linked
+  slide_17: uncertain_slide_specific
+  slide_18: lecture_linked
+  slide_19: lecture_linked
+  slide_20: lecture_linked
+  slide_21: lecture_linked
+  slide_22: lecture_linked
+  slide_23: lecture_linked
+  slide_24: lecture_linked
+  slide_25: lecture_linked
+  slide_26: taught_fearful_attachment_not_developed
+  slide_27: lecture_linked
+  slide_28: lecture_linked
+  slide_29: lecture_linked
+  slide_30: lecture_linked
+  slide_31: lecture_linked
+  slide_32: lecture_linked
+  slide_33: lecture_linked
+  slide_34: lecture_linked
+  slide_35: lecture_linked
+  slide_36: closing_slide_coverage_uncertain
+textbook:
+  book: ../../textbook/book.yml
+  chapter: 7
+  role: supporting_reference_not_proof_of_lecture_coverage

@@ -2,7 +2,7 @@
 
 Agent-ready, accessible course materials for **Fundamentals of Social Psychology** at Vanier College, Autumn 2026.
 
-This repository pairs each classroom slide deck with detailed, slide-by-slide lecture notes. Its main purpose is to give students' study agents a clear, structured, source-grounded representation of the course. The same files remain readable for students who want to use them directly.
+This repository provides detailed, slide-by-slide lecture notes and links to classroom slide decks where available. Its main purpose is to give students' study agents a clear, structured, source-grounded representation of the course. The same files remain readable for students who want to use them directly.
 
 > These notes are a course companion, not a substitute for attending class, completing assigned work, or checking Moodle for current instructions and deadlines.
 
@@ -28,6 +28,9 @@ Point an agent to this repository and ask it to read, in order:
 | 4. Attitudes, Behaviour, and Persuasion | [Read Chapter 4 notes](chapters/04-attitudes-behaviour-persuasion/notes.md) | [Open Chapter 4 slides](chapters/04-attitudes-behaviour-persuasion/slides.pdf) | All 32 slides accounted for across September 28, 30, and October 6; see manifest for coverage qualifications |
 | 5. Perceiving Others | [Read Chapter 5 notes](chapters/05-perceiving-others/notes.md) | [Open Chapter 5 slides](chapters/05-perceiving-others/slides.pdf) | All 29 slides accounted for across October 6 and 7; see manifest for coverage qualifications |
 | 6. Influencing and Conforming | [Read Chapter 6 notes](chapters/06-influencing-and-conforming/notes.md) | [Open Chapter 6 slides](chapters/06-influencing-and-conforming/slides.pdf) | All 38 slides accounted for across October 14 and 19; see manifest for coverage qualifications |
+| 7. Liking and Loving | [Read Chapter 7 notes](chapters/07-liking-and-loving/notes.md) | Instructor-provided deck | 36 slides accounted for; see [coverage](chapters/07-liking-and-loving/sources.yml) |
+| 8. Helping and Altruism | [Read Chapter 8 notes](chapters/08-helping-and-altruism/notes.md) | Instructor-provided deck | 45 slides accounted for; see [coverage](chapters/08-helping-and-altruism/sources.yml) |
+| 9. Aggression | [Read Chapter 9 notes](chapters/09-aggression/notes.md) | Instructor-provided deck | 44 slides accounted for; see [coverage](chapters/09-aggression/sources.yml) |
 
 All notes remain marked `draft` until they receive an instructor review. Coverage labels deliberately distinguish material that was taught, reviewed, skipped, or not yet discussed.
 
